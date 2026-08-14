@@ -1,3 +1,6 @@
 Description : 
 This app gives a real time information of your local weather.
 It monitors humidity , temperature, chance of rain, wind speed etc.
+
+Temperature conversion:
+It shows temperature in different scales by converting by a built-in convertor.
