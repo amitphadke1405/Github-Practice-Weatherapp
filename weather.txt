@@ -7,3 +7,5 @@ It shows temperature in different scales by converting by a built-in convertor.
 
 
 This is the new change made by me.
+
+this is version 1.0
