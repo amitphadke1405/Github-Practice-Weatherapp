@@ -4,3 +4,6 @@ It monitors humidity , temperature, chance of rain, wind speed etc.
 
 Temperature conversion:
 It shows temperature in different scales by converting by a built-in convertor.
+
+
+This is the new change made by me.
