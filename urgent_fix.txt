@@ -1,3 +1,5 @@
 This bug is fixed urgently.
 
 another fix updated.
+
+Branch merged
